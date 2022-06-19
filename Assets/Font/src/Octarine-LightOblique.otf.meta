@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8907040bbb7244d4f823a0ff974fcbe7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Octarine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 67aafa3cedd0fd54b89002555e268f14, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
